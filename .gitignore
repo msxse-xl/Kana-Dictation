@@ -1,0 +1,13 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# temporary files
+.keep
+tmp_*
+*.log
+
+# Python
+__pycache__/
+*.pyc
